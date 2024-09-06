@@ -7,8 +7,7 @@
 
 - resultado
 
-- ![image](https://github.com/user-attachments/assets/375c358c-5790-471c-951a-18763071d330)
-
+- ![image](https://github.com/user-attachments/assets/77984a23-81f3-4aed-98f4-841b99471ee8)
 
 ## tuplas
 - codigo
@@ -17,23 +16,26 @@
 
 - resultado
 
-- ![image](https://github.com/user-attachments/assets/2e384d24-507a-4b17-ae3d-5c59c17557ed)
+- ![image](https://github.com/user-attachments/assets/b20a6bfc-eca1-4948-b51c-f08ff9631293)
+
 
 ## conjuntos
 -codigo
 
--![image](https://github.com/user-attachments/assets/5411475c-686b-4135-8df0-dd84e6f8091e)
+- ![image](https://github.com/user-attachments/assets/5411475c-686b-4135-8df0-dd84e6f8091e)
 
 -resultado
 
--![image](https://github.com/user-attachments/assets/1bd3f2da-6059-4263-8167-729fc8f892df)
+- ![image](https://github.com/user-attachments/assets/58140772-3349-4926-a6a2-19168955719f)
+
 
 ## diccionarios
 
 -codigo
 
--![image](https://github.com/user-attachments/assets/722a924f-162a-41d1-bd3d-186581958458)
+- ![image](https://github.com/user-attachments/assets/722a924f-162a-41d1-bd3d-186581958458)
 
 -resultado
 
--![image](https://github.com/user-attachments/assets/86c43986-9a07-46fc-b472-a7cc3d719e50)
+- ![image](https://github.com/user-attachments/assets/b11958a8-b1f1-4f20-9475-44c74627412c)
+
